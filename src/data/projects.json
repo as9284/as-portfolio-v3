@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Project A",
-    "description": "Description of Project A",
-    "technologies": ["JavaScript", "React", "Node.js"],
-    "url": ""
+    "name": "Wirestorm Networks",
+    "description": "Wirestorm Networks delivers advanced cloud solutions, DevOps services, software and hardware development, IoT, machine learning, and consultancy.",
+    "technologies": ["HTML/CSS", "React", "Node.js"],
+    "url": "https://www.wirestorm.software/"
   },
   {
     "id": 2,
-    "name": "Project B",
-    "description": "Description of Project B",
-    "technologies": ["Python", "Django"],
-    "url": ""
+    "name": "Memoir",
+    "description": "A minimalistic yet feature-rich note-taking app that ensures secure data storage and easy access to notes anytime, anywhere.",
+    "technologies": ["HTML/CSS", "React", "Node.js", "TailwindCSS", "Firebase"],
+    "url": "https://memoir-eight.vercel.app/"
   },
   {
     "id": 3,
-    "name": "Project C",
-    "description": "Description of Project C",
-    "technologies": ["Java", "Spring"],
-    "url": ""
+    "name": "Sky Cloud",
+    "description": "A sleek, sharp and intuitive cloud storage service designed for effortless file management, offering a seamless and visually refined user experience.",
+    "technologies": ["HTML/CSS", "React", "Node.js", "TailwindCSS"],
+    "url": "https://sky-cloud.vercel.app/"
   },
   {
     "id": 4,
-    "name": "Project D",
-    "description": "Description of Project D",
-    "technologies": ["C#", ".NET"],
-    "url": ""
+    "name": "Breeze",
+    "description": "A simple and modern task management app designed to help users stay organized and productive. Built with Flutter and Supabase, Breeze offers a clean interface, intuitive interactions, and real-time syncing—making task tracking effortless and enjoyable.",
+    "technologies": ["Flutter/Dart", "Supabase"],
+    "url": "https://github.com/as9284/project_breeze/releases"
   },
   {
     "id": 5,
-    "name": "Project E",
-    "description": "Description of Project E",
-    "technologies": ["PHP", "Laravel"],
-    "url": ""
+    "name": "Luna",
+    "description": "Luna is a sleek and modern news reader app that delivers the latest headlines in a minimalistic layout. Powered by Flutter and The Guardian API, it focuses on clean presentation and smooth navigation, ensuring users can stay informed with ease.",
+    "technologies": ["Flutter/Dart", "The Guardian API"],
+    "url": "https://github.com/as9284/project_luna/releases/tag/v1.0.0"
   },
   {
     "id": 6,
-    "name": "Project F",
-    "description": "Description of Project F",
-    "technologies": ["PHP", "Laravel"],
-    "url": ""
+    "name": "Novo",
+    "description": "Novo is a lightweight and elegant PDF viewer app built with Flutter. Designed for simplicity and speed, it provides users with a seamless way to open, read, and navigate PDF files, perfect for on-the-go document access.",
+    "technologies": ["Flutter/Dart"],
+    "url": "https://github.com/as9284/project_novo/releases/tag/v1.0.0"
   }
 ]

@@ -6,12 +6,12 @@ export const Home = () => {
   return (
     <>
       {/* Hero Section */}
-      <div className="page-section">
+      <div className="page-section min-h-svh">
         <Hero />
       </div>
 
       {/* Projects Section */}
-      <div id="projects-section" className="page-section">
+      <div id="projects-section" className="page-section min-h-screen">
         <Projects />
       </div>
     </>

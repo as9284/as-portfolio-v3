@@ -9,14 +9,14 @@
 
 @layer components {
   .page-section {
-    @apply w-full min-h-svh flex flex-col justify-center items-center px-4 py-4;
+    @apply w-full flex flex-col justify-center items-center px-4 py-4;
   }
 
   .holo-btn {
-    @apply bg-transparent relative inline-flex items-center gap-2 border-neutral-800 border-2 px-2 md:px-4 py-3 md:py-4 text-neutral-800 font-semibold text-base md:text-xl cursor-pointer leading-none align-middle duration-75 hover:bg-neutral-800 hover:text-neutral-200;
+    @apply bg-transparent relative inline-flex items-center gap-2 border-neutral-800 border-2 px-2 md:px-4 py-3 md:py-4 text-neutral-800 font-semibold text-base md:text-xl cursor-pointer leading-none align-middle duration-300 hover:bg-neutral-800 hover:text-neutral-200 active:scale-95;
   }
 
   .holo-card {
-    @apply w-full md:w-3/4 font-semibold flex items-center px-6 py-4 bg-transparent border-2 border-neutral-800 duration-75 cursor-pointer hover:bg-neutral-800 hover:text-neutral-200 hover:translate-y-2;
+    @apply select-none font-semibold flex items-center px-6 py-4 bg-transparent border-2 border-neutral-800 duration-300 hover:bg-neutral-800 hover:text-neutral-200;
   }
 }
