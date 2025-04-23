@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    font-family: "Inter", "sans-serif";
+    @apply bg-white;
+  }
+}
+
+@layer components {
+  .page-section {
+    @apply w-full min-h-svh flex flex-col justify-center items-center px-4 py-4;
+  }
+
+  .holo-btn {
+    @apply bg-transparent relative inline-flex items-center gap-2 border-neutral-800 border-2 px-2 md:px-4 py-3 md:py-4 text-neutral-800 font-semibold text-sm md:text-xl cursor-pointer leading-none align-middle duration-75 hover:bg-neutral-800 hover:text-neutral-200;
+  }
+}
