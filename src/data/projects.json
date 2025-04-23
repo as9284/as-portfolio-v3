@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Project A",
+    "description": "Description of Project A",
+    "technologies": ["JavaScript", "React", "Node.js"],
+    "url": ""
+  },
+  {
+    "id": 2,
+    "name": "Project B",
+    "description": "Description of Project B",
+    "technologies": ["Python", "Django"],
+    "url": ""
+  },
+  {
+    "id": 3,
+    "name": "Project C",
+    "description": "Description of Project C",
+    "technologies": ["Java", "Spring"],
+    "url": ""
+  },
+  {
+    "id": 4,
+    "name": "Project D",
+    "description": "Description of Project D",
+    "technologies": ["C#", ".NET"],
+    "url": ""
+  },
+  {
+    "id": 5,
+    "name": "Project E",
+    "description": "Description of Project E",
+    "technologies": ["PHP", "Laravel"],
+    "url": ""
+  },
+  {
+    "id": 6,
+    "name": "Project F",
+    "description": "Description of Project F",
+    "technologies": ["PHP", "Laravel"],
+    "url": ""
+  }
+]

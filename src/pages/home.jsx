@@ -1,5 +1,6 @@
 import React from "react";
 import { Hero } from "../components/Hero";
+import { Projects } from "../components/Projects";
 
 export const Home = () => {
   return (
@@ -10,6 +11,9 @@ export const Home = () => {
       </div>
 
       {/* Projects Section */}
+      <div id="projects-section" className="page-section">
+        <Projects />
+      </div>
     </>
   );
 };

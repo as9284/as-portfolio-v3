@@ -10,6 +10,7 @@ import {
 import { FaFlutter } from "react-icons/fa6";
 import { IoLogoNodejs } from "react-icons/io";
 import { RiTailwindCssFill, RiTelegram2Fill } from "react-icons/ri";
+import { Link } from "react-scroll";
 
 export const Hero = () => {
   return (
@@ -31,12 +32,14 @@ export const Hero = () => {
 
         {/* Buttons Section */}
         <div className="w-full flex justify-center md:justify-start items-center gap-4">
-          <button className="holo-btn">
-            <span className="relative flex items-center">
-              <FaStar />
-            </span>
-            My Projects
-          </button>
+          <Link to="projects-section" smooth={true} duration={500}>
+            <button className="holo-btn">
+              <span className="relative flex items-center">
+                <FaStar />
+              </span>
+              My Projects
+            </button>
+          </Link>
 
           <button className="holo-btn">
             <span className="relative flex items-center">
