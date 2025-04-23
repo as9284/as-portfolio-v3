@@ -63,7 +63,7 @@ export const Projects = () => {
                     </div>
 
                     {/* Description */}
-                    <p className="text-lg font-light text-center text-neutral-200 mb-6 px-2">
+                    <p className="text-base md:text-lg font-light text-center text-neutral-200 mb-6 px-2">
                       {project.description}
                     </p>
 
