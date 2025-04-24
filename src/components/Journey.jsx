@@ -6,9 +6,12 @@ export const Journey = () => {
   return (
     <section className="w-full py-20 px-6 md:px-12 select-none">
       <div className="max-w-4xl mx-auto">
-        <h2 className="text-4xl font-bold text-center text-neutral-800 mb-12">
+        <h2 className="text-4xl md:text-5xl font-bold text-center text-neutral-800 py-4">
           My Journey
         </h2>
+        <p className="text-lg md:text-xl text-center mb-8">
+          Explore my progress throughout the years as a programmer.
+        </p>
 
         <div className="relative border-l-4 border-black ml-4">
           {timeline.map((item, index) => (
