@@ -11,7 +11,7 @@ export const Home = () => {
       </div>
 
       {/* Projects Section */}
-      <div id="projects-section" className="page-section min-h-screen">
+      <div id="projects-section" className="page-section min-h-[70vh]">
         <Projects />
       </div>
     </>
