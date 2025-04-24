@@ -21,10 +21,10 @@
   }
 
   .holo-input {
-    @apply w-full py-4 px-4 border-2 border-neutral-800 text-neutral-800 cursor-pointer duration-300 hover:bg-neutral-800 hover:text-neutral-200 hover:placeholder:text-neutral-300 focus:text-neutral-200 focus:bg-neutral-800 focus:placeholder:text-neutral-300;
+    @apply w-full py-4 px-4 border-2 border-neutral-800 text-neutral-800 placeholder:text-neutral-500 cursor-pointer duration-300 hover:bg-neutral-800 hover:text-neutral-200 hover:placeholder:text-neutral-300 focus:text-neutral-200 focus:bg-neutral-800 focus:placeholder:text-neutral-300;
   }
 
   .holo-textfield {
-    @apply w-full h-56 resize-none py-4 px-4 border-2 border-neutral-800 text-neutral-800 cursor-pointer duration-300 hover:bg-neutral-800 hover:text-neutral-200 hover:placeholder:text-neutral-300 focus:text-neutral-200 focus:bg-neutral-800 focus:placeholder:text-neutral-300;
+    @apply w-full h-56 resize-none py-4 px-4 border-2 border-neutral-800 text-neutral-800 placeholder:text-neutral-500 cursor-pointer duration-300 hover:bg-neutral-800 hover:text-neutral-200 hover:placeholder:text-neutral-300 focus:text-neutral-200 focus:bg-neutral-800 focus:placeholder:text-neutral-300;
   }
 }
