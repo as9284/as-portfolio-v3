@@ -20,11 +20,11 @@ export const Contact = () => {
         {/* Hidden config fields */}
         <input type="hidden" name="_captcha" value="false" />
         <input type="hidden" name="_template" value="box" />
-        {/* <input
+        <input
           type="hidden"
           name="_next"
-          value="https://yourdomain.com/thanks"
-        /> */}
+          value="https://as-portfolio-v3.vercel.app/thanks"
+        />
 
         <input
           type="text"
