@@ -1,0 +1,32 @@
+[
+  {
+    "year": "2016",
+    "title": "First Steps into Programming",
+    "description": "Started programming by exploring Lua, Python, HTML, and CSS — building small experiments and learning the basics of logic and structure."
+  },
+  {
+    "year": "2017",
+    "title": "Game Development & C#",
+    "description": "Dove into game development and expanded my coding skills through Unity and C#, gaining a deeper understanding of object-oriented programming."
+  },
+  {
+    "year": "2018",
+    "title": "Focusing on Frontend",
+    "description": "Discovered a passion for frontend development and began creating personal projects with HTML, CSS, and JavaScript."
+  },
+  {
+    "year": "2019",
+    "title": "Computer Science Journey Begins",
+    "description": "Started studying Computer Science at university, which helped broaden my foundation in programming, data structures, and algorithms."
+  },
+  {
+    "year": "2024",
+    "title": "Graduation & New Frameworks",
+    "description": "Graduated from university and deepened my skills in modern frontend technologies like React, Vue, and TailwindCSS. Also began building cross-platform apps with Flutter."
+  },
+  {
+    "year": "2025",
+    "title": "Specialized in React & Flutter",
+    "description": "Focused heavily on React and Flutter for professional frontend development, and launched several live projects showcasing clean UI, responsive design and performance optimization."
+  }
+]
