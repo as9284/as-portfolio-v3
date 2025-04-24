@@ -27,7 +27,15 @@ export const Projects = () => {
             <div
               key={project.id}
               onClick={() => toggleExpand(project.id)}
-              className={`holo-card flex flex-col w-full md:w-3/4 transition-colors duration-300 ease-in-out cursor-pointer ${
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  toggleExpand(project.id);
+                }
+              }}
+              tabIndex={0}
+              role="button"
+              className={`holo-card flex flex-col w-full md:w-3/4 transition-colors duration-300 ease-in-out cursor-pointer outline-none ${
                 isExpanded ? "bg-neutral-800 text-neutral-200" : ""
               }`}
             >
