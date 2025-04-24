@@ -34,19 +34,21 @@ export const Hero = () => {
         <div className="w-full flex justify-center md:justify-start items-center gap-4">
           <Link to="projects-section" smooth={true} duration={500}>
             <button className="holo-btn">
-              <span className="relative flex items-center">
+              <span className="relative text-2xl flex items-center">
                 <FaStar />
               </span>
               My Projects
             </button>
           </Link>
 
-          <button className="holo-btn">
-            <span className="relative flex items-center">
-              <RiTelegram2Fill />
-            </span>
-            Contact Me
-          </button>
+          <Link to="contact-section" smooth={true} duration={500}>
+            <button className="holo-btn">
+              <span className="relative text-2xl flex items-center">
+                <RiTelegram2Fill />
+              </span>
+              Contact Me
+            </button>
+          </Link>
         </div>
 
         {/* Divider */}

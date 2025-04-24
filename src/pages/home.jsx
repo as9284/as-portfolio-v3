@@ -23,7 +23,7 @@ export const Home = () => {
       </div>
 
       {/* Contact Section */}
-      <div className="page-section min-h-screen">
+      <div id="contact-section" className="page-section min-h-screen">
         <Contact />
       </div>
     </>

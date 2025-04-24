@@ -10,7 +10,7 @@ export const Journey = () => {
           My Journey
         </h2>
         <p className="text-lg md:text-xl text-center mb-8">
-          Explore my progress throughout the years as a programmer.
+          Explore my progress throughout the years as a programmer
         </p>
 
         <div className="relative border-l-4 border-black ml-4">
