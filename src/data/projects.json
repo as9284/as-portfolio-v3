@@ -32,13 +32,13 @@
     "name": "Luna",
     "description": "Luna is a sleek and modern news reader app that delivers the latest headlines in a minimalistic layout. Powered by Flutter and The Guardian API, it focuses on clean presentation and smooth navigation, ensuring users can stay informed with ease.",
     "technologies": ["Flutter/Dart", "The Guardian API"],
-    "url": "https://github.com/as9284/project_luna/releases/tag/v1.0.0"
+    "url": "https://github.com/as9284/project_luna/releases"
   },
   {
     "id": 6,
     "name": "Novo",
     "description": "Novo is a lightweight and elegant PDF viewer app built with Flutter. Designed for simplicity and speed, it provides users with a seamless way to open, read, and navigate PDF files, perfect for on-the-go document access.",
     "technologies": ["Flutter/Dart"],
-    "url": "https://github.com/as9284/project_novo/releases/tag/v1.0.0"
+    "url": "https://github.com/as9284/project_novo/releases"
   }
 ]
