@@ -23,7 +23,7 @@
   {
     "id": 4,
     "name": "Breeze",
-    "description": "A simple and modern task management app designed to help users stay organized and productive. Built with Flutter and Supabase, Breeze offers a clean interface, intuitive interactions, and real-time syncing—making task tracking effortless and enjoyable.",
+    "description": "A simple and modern task management app designed to help users stay organized and productive. Built with Flutter and Supabase, Breeze offers a clean interface, intuitive interactions, and real-time syncing, which makes task tracking effortless and enjoyable.",
     "technologies": ["Flutter/Dart", "Supabase"],
     "url": "https://github.com/as9284/project_breeze/releases"
   },
